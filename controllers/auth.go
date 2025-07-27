@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/harimadhav/event-management-wc1/models"
-	"github.com/harimadhav/event-management/utils"
+	"github.com/Hari-ghm/Event-Management-WC1/models"
+	"github.com/Hari-ghm/Event-Management-WC1/utils"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
